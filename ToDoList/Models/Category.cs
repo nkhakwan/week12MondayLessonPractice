@@ -18,14 +18,14 @@ namespace ToDoList.Models
 
 
 
-public ActionResult Index()
+/*public ActionResult Index()
 {
     return View(_db.Items.ToList());
 }
 
 
 
-/*public ActionResult Details(int id)
+public ActionResult Details(int id)
 {
     var thisItem = _db.Items go into the items table
         .Include(item => item.Categories) find all CategoryItem objects associated with the item
