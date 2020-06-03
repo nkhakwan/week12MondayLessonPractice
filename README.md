@@ -33,7 +33,8 @@ _Have a bug or an issue with this application? Email post_khan@yahoo.com_
 * MSBuild
 * Razor
 * Git and GitHub
-
+* .Net Core Entity
+* .NET core Identity
 
 ### Specs
 
