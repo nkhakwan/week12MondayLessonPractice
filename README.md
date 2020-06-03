@@ -1,12 +1,12 @@
 # _ToDoList lesson Practice for week12_
 
-#### _Epicodus Week12 Monday Practice Project_
+#### _Epicodus Week12 Tuesday Practice Project_
 
 #### By  _**Khan Sahab**_
 
 ## Description
 
-_A web site that allow usesrs to add items and add categories and link them together thru ItemCategory table._
+_A web site that registers users with their email and password and then let them log in and let them see the items that are related only to them._
 
 ## Setup/Installation Requirements
 
@@ -33,6 +33,7 @@ _Have a bug or an issue with this application? Email post_khan@yahoo.com_
 * MSBuild
 * Razor
 * Git and GitHub
+
 
 ### Specs
 
