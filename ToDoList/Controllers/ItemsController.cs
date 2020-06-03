@@ -33,6 +33,8 @@ namespace ToDoList.Controllers
       var userId = this.User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
       var currentUser = await _userManager.FindByIdAsync(userId);
       var userItems = _db.Items.Where(entry => entry.User.Id == currentUser.Id).ToList();
+      Console.WriteLine($" and here is currentUser.Id{currentUser.Id} plus {userItems[0].ItemId}");
+
       return View(userItems);
     }
 
