@@ -1,12 +1,12 @@
 # _ToDoList lesson Practice for week12_
 
-#### _Epicodus Week12 Tuesday Practice Project_
+#### _Epicodus Week12 Wednesday practice Project_
 
 #### By  _**Khan Sahab**_
 
 ## Description
 
-_A web site that registers users with their email and password and then let them log in and let them see the items that are related only to them._
+_A web site that registers users with their email and password and then let them log in and let them see the items that are related only to them. The same repo was submitted yesterday and being submitted today. Not much was done today. Things were studied how the things are getting done_
 
 ## Setup/Installation Requirements
 
@@ -38,7 +38,7 @@ _Have a bug or an issue with this application? Email post_khan@yahoo.com_
 
 ### Specs
 
-Specs are not included as the project was built up thru lessons and than it was practiced and quite a bit of time taken just to understand it.
+Specs are not included as the project was built up thru lessons and than it was practiced and quite a bit of time taken just to understand it. Also lots of tweaks were done to see what is being broken and how it is being broken. Then things changed back to original form. Still lots of grey areas.
 ### License
 
 This software is licensed under the MIT license.
